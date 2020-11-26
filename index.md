@@ -1,37 +1,99 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
 
-You can use the [editor on GitHub](https://github.com/wluzzell88/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+  <h1>Test Name</h1>
+  <hr>
+  <p>Personal Resume: <em><strong>Test Environment</strong></em>.</p>
+  <p>I am a jack of all trades. Currently the technologies I am familiar with are:
+  <ul>
+    <li>Python</li>
+    <li>Alteryx</li>
+    <li>Tableau</li>
+    <li>R</li>
+  </ul>
+  </p>
+  <hr>
+  <h3>Books and Publications:</h3>
+  <ol>
+    <li><a href="booklist.html">Book 1: <em>Published 2021</em></a></li>
+    <li><a href="booklist.html">Book 1: <em>Published 2022</em></a></li>
+    <li><a href="booklist.html">Book 1: <em>Published 2023</em></a></li>
+  </ol>
+  <hr>
+  <h3>Table Information Formatting:</h3>
+  <table cellspacing="5">
+    <th> Portfolio Information:
+      <tr>
+        <td>First Name</td>
+        <td>Portfolio</td>
+        <td>Address</td>
+        <td>City Name</td>
+        <td>Zip Code</td>
+      </tr>
+    </th>
+    <tbo>
+      <tr>
+        <td>Test</td>
+        <td><a href="portfolio.html">WLU Portfolio</a></td>
+        <td>2222 West Main St.</td>
+        <td>Indianapolis</td>
+        <td>46254</td>
+      </tr>
+      <tr>
+        <td>Test 2</td>
+        <td>2587 East Forest Dr.</td>
+        <td><a href="portfolio.html">Marble's Portfolio</a></td>
+        <td>Indianapolis</td>
+        <td>46167</td>
+      </tr>
+    </tbo>
+    <tf></tf>
+  </table>
+  <hr>
+  <table cellspacing="5">
+    <th>
+      Skillsets:
+    </th>
+    <tbody>
+      <tr>
+        <td>Skills:</td>
+      </tr>
+      <tr>
+        <td>Python</td>
+        <td>*****</td>
+      </tr>
+      <tr>
+        <td>Tableau</td>
+        <td>*****</td>
+      </tr>
+      <tr>
+        <td>SQL</td>
+        <td>****</td>
+      </tr>
+      <tr>
+        <td>R</td>
+        <td>**</td>
+      </tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+  <hr>
+  <h5>Contact Me:</h5>
+  <form class="" action="index.html" method="post">
+    <label for="">Your Name:</label>
+    <input type="text" name="" value=""><br>
+    <label for="">Your Email:</label>
+    <input type="text" name="" value="">
+    <input type="submit">
+  </form>
+  <hr>
+</body>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wluzzell88/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
